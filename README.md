@@ -1,3 +1,5 @@
+![alt text](rps.jpg "RPS Game")
+
 # Rock Paper Scissors Game with Python!
 
 TODO: Write a project description
